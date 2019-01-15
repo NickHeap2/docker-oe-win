@@ -1,0 +1,1 @@
+docker build -t wincore-oe-vsts:0.1 .
